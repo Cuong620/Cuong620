@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Trang chủ giới thiệu</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="./baitaplon.css">
+</head>
+<style>
+    .background {
+        width: auto;
+        height: 500px;
+        background-image: url('https://images.fpt.shop/unsafe/fit-in/800x300/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/10/4/638320408894730869_F-H1_800x300.png');
+        background-position: center;
+        background-size: cover;
+    }
+</style>
+
+<body>
+    <div class="topnav">
+        <nav class="container">
+            <a href="trang chủ.html" id="logo">
+                <img src="https://th.bing.com/th/id/OIP.WnUiEIfcA5uc5PAI8cF3ygHaFS?pid=ImgDet&rs=1" alt="Logo">
+            </a>
+            <ul id="main-menu">
+                <li><a href="dangnhaptaikhoan.html">Đăng nhập/ đăng ký</a></li>
+                <a><input type="text" placeholder="Tìm kiếm....." id="txtsearch"></a>
+                <li><a href="">Thông tin hay</a>
+                    <ul class="sub-menu">
+                        <li><a href="https://fptshop.com.vn/tin-tuc">Tin mới</a></li>
+                        <li><a href="https://fptshop.com.vn/tin-tuc/tin-khuyen-mai">Khuyến mãi</a></li>
+                        <li><a href="https://fptshop.com.vn/tin-tuc/su-kien">Sự Kiện</a></li>
+                        <li><a href="https://fptshop.com.vn/tin-tuc/thu-thuat">Thủ thuật</a></li>
+                        <li><a href="https://fptshop.com.vn/tin-tuc/video-hot">Video HOT</a></li>
+                    </ul>
+                </li>
+                <a href="https://fptshop.com.vn/dich-vu"> |&nbsp&nbsp&nbsp&nbsp&nbsp Thanh Toán & tiện ích</a></a>
+                <a href="dangnhaptaikhoan.html">|&nbsp&nbsp&nbsp&nbsp&nbsp Tài khoản </a>
+        </nav>
+    </div>
+    <div class="row">
+        <div class="column side">
+            <h2>Thành viên nhóm 7
+                <hr/>
+            </h2>
+            <a href="profile.html">
+                <p>Hà Đình Cường - MSV: 20220425</p>
+                <p>Nguyễn Tiến Đạt - MSV: 20220433</p>
+                <p>Nguyễn Lâm Viết Huy - MSV: 2022047</p>
+            </a>
+
+        </div>
+        <div class="column middle">
+            <div class="title middle">
+                <h2> Danh mục sản phẩm</h2>
+                <ul id="main-menu-middle">
+                    <li><a>Điện thoại</a><img class="img trangchu" src="https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/9/14/638302786719525352_ip-15-pro-max-dd.jpg" alt="Điện thoại 1"></li>
+                    <li><a>Phụ kiện/Tai nghe</a><img class="img trangchu" src="https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2023/9/19/638307397585063327_tai-nghe-bluetooth-choang-dau-co-mic-havit-h628bt-dd-docquyen.jpg"></li>
+                    <li><a>Laptop</a><img class="img trangchu" src="https://images.fpt.shop/unsafe/fit-in/125x125/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/19/637991744177742277_img-gaming.png"></li>
+                    <li><a>Máy tính bảng</a><img class="img trangchu" src="https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/9/22/637994560710957944_samsung-galaxy-tab-s6-lite-2022--dd-docquyen.jpg"></li>
+                    <li><a>Màn hình</a><img class="img trangchu" src="https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/7/26/637944408571945984_man-hinh-lg-27gq50f-b27-inch-dd.jpg"></li>
+                </ul>
+                <ul id="main-menu-middle">
+                    <li><a>Thiết bị thông minh</a><img class="img trangchu" src="https://images.fpt.shop/unsafe/fit-in/60x60/filters:quality(90):fill(transparent)/fptshop.com.vn/Uploads/images/2022/iconcate/icon-smart.png"></li>
+                    <li><a>Máy cũ</a><img class="img trangchu" src="https://images.fpt.shop/unsafe/fit-in/60x60/filters:quality(90):fill(transparent)/fptshop.com.vn/Uploads/images/2022/iconcate/icon-tcdm.png"></li>
+                    <li><a>Gia dụng</a><img class="img trangchu" src="https://images.fpt.shop/unsafe/fit-in/60x60/filters:quality(90):fill(transparent)/fptshop.com.vn/Uploads/images/2022/iconcate/icon-houseware.png"></li>
+                    <li><a>PC</a><img class="img trangchu" src="https://images.fpt.shop/unsafe/fit-in/60x60/filters:quality(90):fill(transparent)/fptshop.com.vn/Uploads/images/2022/iconcate/icon-pc.png"></li>
+                </ul>
+            </div>
+        </div>
+        <div class=""></div>
+    </div>
+    <div class="footer">
+        <p>Tư vấn mua hàng: 1800 6601(Nhánh 1) (Miễn phí)</p>
+        <p>Hỗ trợ kỹ thuật: 1800 6601 (Nhánh 2)</p>
+
+        Góp ý, khiếu nại: 1800 6616(8h00 - 22h00)
+        </p>
+    </div>
+</body>
+
+</html>
